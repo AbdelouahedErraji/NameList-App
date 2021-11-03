@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NameList</string>
+    <string name="nameList">Name List</string>
+    <string name="ButtonName">Submit Name</string>
+</resources>
